@@ -1,0 +1,3 @@
+JAVA PROJECT:
+A double-ended queue (sometimes abbreviated as DEQ) is a “linear” ADT (i.e., a list) in which items may be added to,
+and removed from, either the front or the back.
